@@ -48,12 +48,12 @@ a {
   color: #0d0f0f;
   transition: 0.3s;
   font-weight: 500;
-  transition: all 0.3s alternate ;
+  transition:  0.2s ease-in ;
 }
 header nav a:hover {
   background: #ffffff;
   border-radius: 90px;
-  padding: 5px 8px;
+  padding: 5px 10px;
   color: #0d0f0f;
 }
 
@@ -81,7 +81,7 @@ header nav a:hover {
 
 .btn:hover{
    background-color: #00ffdd;
-   transform:scale(1.1);
+   transform:scale(1.19);
 }
 
 .profile-img img {
