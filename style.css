@@ -173,7 +173,7 @@ header nav a:hover {
 }
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px  , 2fr));
   gap: 25px;
   margin-top: 30px;
 }
@@ -184,6 +184,7 @@ header nav a:hover {
   border: 1px solid #00bfa6;
   transition: all 0.3s ease-in-out;
 }
+
 .project-card:hover {
   transform: scale(1.03);
   box-shadow: 0 0 40px rgba(0,255,200,0.3);
