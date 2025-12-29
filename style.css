@@ -167,6 +167,11 @@ header nav a:hover {
   line-height: 1.6;
 }
 
+.p-sec {
+  font-size: 40px;
+  color:white;
+}
+
 .projects {
   padding: 80px;
   text-align: center;
